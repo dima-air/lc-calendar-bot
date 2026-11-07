@@ -1,0 +1,9 @@
+.env
+*.db
+*.db-wal
+*.db-journal
+__pycache__/
+.venv
+venv/
+.idea/
+.lc_calendar.db
